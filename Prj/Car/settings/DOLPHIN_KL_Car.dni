@@ -1,0 +1,131 @@
+[DebugChecksum]
+Checksum=965945016
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[JLinkDriver]
+CStepIntDis=_ 0
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000000
+[SWOTraceHWSettings]
+OverrideDefaultClocks=0
+CpuClock=72000000
+ClockAutoDetect=0
+ClockWanted=2000000
+JtagSpeed=2000000
+Prescaler=36
+TimeStampPrescIndex=0
+TimeStampPrescData=0
+PcSampCYCTAP=1
+PcSampPOSTCNT=15
+PcSampIndex=0
+DataLogMode=0
+ITMportsEnable=0
+ITMportsTermIO=0
+ITMportsLogFile=0
+ITMlogFile=$PROJ_DIR$\ITM.log
+[CodeCoverage]
+Enabled=_ 0
+[SWOTraceWindow]
+PcSampling=0
+InterruptLogs=0
+ForcedTimeStamps=0
+EventCPI=0
+EventEXC=0
+EventFOLD=0
+EventLSU=0
+EventSLEEP=0
+[PowerLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=0
+Title_0=I0
+Symbol_0=0 4 1
+LiveEnabled=0
+LiveFile=PowerLogLive.log
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[EventLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[PowerProbe]
+Frequency=10000
+Probe0=I0
+ProbeSetup0=2 1 1 2 0 0
+[DriverProfiling]
+Enabled=0
+Mode=3
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "C:\Users\acer\Desktop\3.13添加编码器添加虚拟示波器\App\main.c" ""
+A1=_ "C:\Users\acer\Desktop\3.16改舵机\App\main.c" ""
+A2=_ "C:\Users\acer\Desktop\加检测函数4\App\main.c" ""
+A3=_ "C:\Users\asus\Desktop\超车待改\App\main.c" ""
+A4=_ "C:\Users\asus\Desktop\功能车\后车 三角区域解决33\Board\Src\adjust.c" ""
+A5=_ "C:\Users\asus\Desktop\后车 三角区域\Board\Src\OLED.c" ""
+A6=_ "C:\Users\dell\Desktop\3.13添加编码器\App\main.c" ""
+A7=_ "C:\Users\dell\Desktop\3.13添加编码器\Board\Src\pid.c" ""
+A8=_ "C:\Users\dell\Desktop\3.13添加编码器添加虚拟示波器\Board\Src\pid.c" ""
+A9=_ "C:\Users\dell\Desktop\6.30\App\main.c" ""
+A10=_ "C:\Users\dell\Desktop\whiet&red\7.3_``~~rrr\App\main.c" ""
+A11=_ "C:\Users\dell\Desktop\比赛程序\75 速度 7.7V最好的！\App\main.c" ""
+A12=_ "C:\Users\dell\Desktop\比赛程序\后车 比赛程序1S\Board\Src\OLED.c" ""
+A13=_ "C:\Users\dell\Desktop\比赛程序\后车 比赛程序1S\Board\Src\SCCB.c" ""
+A14=_ "C:\Users\dell\Desktop\比赛程序\后车 比赛程序1S\Chip\Src\MKL_dma.c" ""
+A15=_ "C:\Users\dell\Desktop\比赛程序\后车 比赛程序1S\Chip\Src\MKL_gpio.c" ""
+A16=_ "C:\Users\dell\Desktop\比赛程序\后车 比赛程序1S\Chip\Src\MKL_uart.c" ""
+A17=_ "C:\Users\dell\Desktop\比赛程序最终版6s\Board\Src\SCCB.c" ""
+A18=_ "C:\Users\dell\Desktop\比赛程序最终版6s\Chip\Src\MKL_dma.c" ""
+A19=_ "C:\Users\dell\Desktop\后车 比赛程序\App\main.c" ""
+A20=_ "C:\Users\dell\Desktop\后车5.21  65的速度  7.7V\App\main.c" ""
+A21=_ "C:\Users\dell\Desktop\加检测函数3\Board\Src\camera.c" ""
+A22=_ "C:\Users\dell\Desktop\加检测函数4\App\main.c" ""
+A23=_ "C:\Users\dell\Desktop\原始程序4.13——\Board\Src\OLED.c" ""
+Count=24
+SuppressDialog=1
